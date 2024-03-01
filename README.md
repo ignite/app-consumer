@@ -1,4 +1,6 @@
-# app-consumer
+# Moved to [https://github.com/ignite/apps](https://github.com/ignite/apps/tree/main/consumer)
+
+## app-consumer
 
 This repo holds an Ignite CLI app for ICS consumer chain.
 
